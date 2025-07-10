@@ -34,7 +34,7 @@ Sou um estudante dedicado de desenvolvimento Full-Stack, sempre em busca de evol
 
 Você pode me encontrar por aqui:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui) _(adicione seu link)_
+- 💼 [LinkedIn](https://www.linkedin.com/in/walder-william-4b700a235/)
 - 🌐 Portfólio em breve!
 
 ---
