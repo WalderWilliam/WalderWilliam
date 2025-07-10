@@ -30,13 +30,10 @@ Sou um estudante dedicado de desenvolvimento Full-Stack, sempre em busca de evol
 
 ## 📚 Estudando no momento
 
-### 🧩 Next.js
+### 🧩 Next.js & NodeJS
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0T4uw/giphy.gif" width="300" alt="Next.js"/>
 
-### 🐳 Docker
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Docker"/>
-
-### 🧪 Testes Automatizados
+### 🧪 TypeScript
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRxZGt5a3NtaTd2c2hrY2UwejVkMHJuaGVxNmE3dzZ3djQyZXI3dCZlcD12MV8zY3p0eWhnOXFzOWRyeHBnNHo3cHo5MjVyNWZla3YwZnZiZXhnZTk3MGhlMiZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Testes Automatizados"/>
 
 ---
