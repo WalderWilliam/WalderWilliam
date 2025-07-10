@@ -8,6 +8,12 @@ Sou um estudante dedicado de desenvolvimento Full-Stack, sempre em busca de evol
 
 ---
 
+## 🧠 Mindset Dev
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <div style="display: flex; gap: 10px;">
@@ -19,6 +25,19 @@ Sou um estudante dedicado de desenvolvimento Full-Stack, sempre em busca de evol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
+
+---
+
+## 📚 Estudando no momento
+
+### 🧩 Next.js
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0T4uw/giphy.gif" width="300" alt="Next.js"/>
+
+### 🐳 Docker
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Docker"/>
+
+### 🧪 Testes Automatizados
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRxZGt5a3NtaTd2c2hrY2UwejVkMHJuaGVxNmE3dzZ3djQyZXI3dCZlcD12MV8zY3p0eWhnOXFzOWRyeHBnNHo3cHo5MjVyNWZla3YwZnZiZXhnZTk3MGhlMiZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Testes Automatizados"/>
 
 ---
 
@@ -34,10 +53,11 @@ Sou um estudante dedicado de desenvolvimento Full-Stack, sempre em busca de evol
 
 Você pode me encontrar por aqui:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/walder-william-4b700a235/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/walder-william-4b700a235/) 
 - 🌐 Portfólio em breve!
 
 ---
 
 _Obrigado por visitar meu perfil!_
+
 
